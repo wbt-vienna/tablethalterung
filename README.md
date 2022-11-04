@@ -6,6 +6,8 @@
 
 ## Materialliste
 
+Folgendes Material wird für den Zusammenbau dieser Tablethalterung benötigt (in Abb. 2 und 3 entsprechend der Nummerierung beschriftet dargestellt)
+
 1. 8 Stück Beilagscheiben
 
 2. 4 Stück Senkkopfschrauben M4x12mm
