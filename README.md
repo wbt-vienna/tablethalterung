@@ -30,11 +30,11 @@
 
 11. 4 Stück [Seitenteile](./seitenteile_v2.stl)
 
-![material](./img/tablethalterung(8.1).JPEG)
+![material](./img/tablethalterung(8.1).jpeg)
 
 *Abb. 2: Material*
 
-![kleinmaterial](./img/material(2.1).JPG)
+![kleinmaterial](./img/material(2.1).jpg)
 
 *Abb. 3: Kleinmaterial*
 
@@ -47,20 +47,20 @@
 3. Schneiden Sie das Winkelprofil (8) auf die gewünschte Länge zu - am besten die gleiche Länge, die die längere Seite Ihres Tablets / Computers hat.
 
 4. Befestigen Sie das Winkelprofil (8) auf der Rückseite der linken und der rechten Halterung. Verwenden Sie dazu pro Halterung 2 Stück Senkkopfschrauben M4x12mm (2) mit jeweils einer Sechskantmutter M4 (3) und 2 Beilagscheiben (1), siehe Abb. 4. Achten Sie beim Zusammenbau darauf, dass es an die Größe Ihres Tablets / Computers angepasst ist.
-
+   
    ![halterungen](./img/tablethalterung(9.1).jpeg)
    ![halterungen1](./img/tablethalterung(6.1).jpg)
    
    *Abb. 4: Befestigung des Winkelprofils an den Seitenteilen*
 
 5. Nun brauchen Sie den Manfrotto Gelenksarm (6) und den Super Clamp (7), um die Halterung am Rollstuhl oder am Bett (oder wo es für Sie notwendig ist) zu befestigen. Verwenden Sie pro Manfrotto Gelenksarm (6) jeweils eine 1/4 Zoll - 20 x 3/4 Zoll UNC Sechskantschraube (5) und eine Beilagscheibe (1), um den Gelenksarm am Winkelprofil zu befestigen, siehe Abb. 5.
-
+   
    ![halterungen2](./img/tablethalterung(6.2).jpg)
    
    *Abb. 5: Befestigung des Manfrotto Gelenksarm am Winkelprofil*
 
 6. Befestigen Sie den Super Clamp (7) auf der anderen Seite des Manfrotto Gelenkarms (6), damit die Halterung am Bett / Rollstuhl oder ähnlichem befestigt werden kann, siehe Abb. 6.  
-
+   
    ![halterungen3](./img/tablethalterung(3.1).jpeg)
    
    *Abb. 6: Befestigung des Super Clamps am Manfrotto Gelenkarm*
