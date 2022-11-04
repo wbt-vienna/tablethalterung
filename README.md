@@ -34,7 +34,7 @@
 
 *Abb. 2: Material*
 
-![kleinmaterial](./img/material(2.1).jpg)
+![kleinmaterial](./img/Material(2.1).jpg)
 
 *Abb. 3: Kleinmaterial*
 
