@@ -1,6 +1,12 @@
 # Flexible Tablethalterung
 
-![tablethalterung](./img/tablethalterung(11).jpeg)
+Diese Projektidee ist im Rahmen des [Hackathons für Assistierende Technologien](https://wbt.wien/hackathon)) (April 2022) enstanden. Das Projekt "Flexible Tablethalterung" hatte zum Ziel, eine Tablethalterung für verschiedene Tabletgrößen zu erstellen, die dann auch auf einem 
+Krankenhausbett oder Rollstuhl gut fixiert werden kann und verstellbar 
+sein soll. Was auf dem Markt zu finden ist, ist für Anwender und Anwenderinnen entweder zu teuer, nicht stabil genug oder passt von der Größe her nicht.
+
+Für die Befestigung wurden Manfrotto Gelenksarme gewählt. Die Halterung besteht aus selbsterstellten 3D gedruckten Teilen und einem Metallprofil aus dem Baumarkt. Untenstehend finden Sie eine genaue Beschreibung, um sie selbst nachbauen zu können!
+
+![tablethalterung](./img/tablethalterung(3.2).jpeg)
 
 *Abb. 1: Tablethalterung*
 
@@ -70,3 +76,8 @@ Folgendes Material wird für den Zusammenbau dieser Tablethalterung benötigt (i
 7. Auf unseren Abbildungen wurden zwei Manfrotto Gelenksarme (6) und daher auch zwei Super Clamps (7) verwendet, was die Stabilität um einiges erhöht. Alternativ kann auch ein Manfrotto Gelenksarm und ein Super Clamp verwendet werden. Hier würde der Manfrotto Gelenksarm mittig am Winkelprofil befestigt werden.
 
 8. Nun können Sie die Halterung an der gewünschten Stelle montieren und Ihr Tablet / Computer in die Halterung hineinschieben. Viel Freude!
+
+Zum Abschluss hier noch beispielhaft auf einem Rollstuhl befestigt:
+![halterungen3](./img/tablethalterung_hackathon(2).jpg)
+
+   *Abb. 7: Befestigung der Tablethalterung auf einem Rollstuhl*
