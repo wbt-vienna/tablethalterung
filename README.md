@@ -1,8 +1,8 @@
 # Flexible Tablethalterung
 
-Diese Projektidee ist im Rahmen des [Hackathons für Assistierende Technologien](https://wbt.wien/hackathon)) (April 2022) enstanden. Das Projekt "Flexible Tablethalterung" hatte zum Ziel, eine Tablethalterung für verschiedene Tabletgrößen zu erstellen, die dann auch auf einem 
+Diese Projektidee ist im Rahmen des [Hackathons für Assistierende Technologien](https://wbt.wien/hackathon) (April 2022) enstanden. Das Projekt "Flexible Tablethalterung" hatte zum Ziel, eine Tablethalterung für verschiedene Tabletgrößen zu erstellen, die dann auch auf einem 
 Krankenhausbett oder Rollstuhl gut fixiert werden kann und verstellbar 
-sein soll. Was auf dem Markt zu finden ist, ist für Anwender und Anwenderinnen entweder zu teuer, nicht stabil genug oder passt von der Größe her nicht.
+sein soll. Was bis zu diesem Zeitpunkt auf dem Markt zu finden war, war für Anwender und Anwenderinnen entweder zu teuer, nicht stabil genug oder passte von der Größe her nicht.
 
 Für die Befestigung wurden Manfrotto Gelenksarme gewählt. Die Halterung besteht aus selbsterstellten 3D gedruckten Teilen und einem Metallprofil aus dem Baumarkt. Untenstehend finden Sie eine genaue Beschreibung, um sie selbst nachbauen zu können!
 
